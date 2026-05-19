@@ -271,7 +271,7 @@ h1 {
   font-size: 40px;
 }
 
-.sec-client .wrapper{
+.sec-client .cli-wrapper{
     display: flex;
     gap: 30px;
 }
@@ -297,11 +297,12 @@ h1 {
   padding: 30px;
 }
  
-.sec-client .victor_img1{
+.sec-client .left-arrow{
     margin-block: auto;
+  
 }
 
-.sec-client .victor_img2{
+.sec-client .right-arrow{
     margin-block: auto;
 }
  
